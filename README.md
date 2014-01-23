@@ -1,4 +1,5 @@
 qa
 ==
 
-Küsimused ja vastused veeb, kohandatud Vana-Vigalale
+Küsimused ja vastused veeb, kohandatud Vana-Vigalale...
+
